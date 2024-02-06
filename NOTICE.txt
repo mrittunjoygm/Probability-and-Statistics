@@ -1,0 +1,6 @@
+Probability and Statistics Course
+Copyright 2024 Mrittunjoy Guha Majumdar
+
+This initial developer of this course is Mrittunjoy Guha Majumdar. 
+Apache 2.0 License. All Rights Reserved. 
+
